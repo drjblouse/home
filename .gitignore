@@ -78,7 +78,18 @@ celerybeat-schedule
 
 # SageMath parsed files
 *.sage.py
-
+.*
+Applications/
+Documents/
+Keeps/
+Pictures/
+Projects/
+VirtualBox VMs/
+Windows.desktop
+android-sdk-linux/
+go/
+google-drive/
+snap/
 # Environments
 .env
 .venv
